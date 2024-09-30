@@ -54,8 +54,8 @@ interests:
 education:
   - area: PhD in Computer Science
     institution: University of California, Los Angeles
-    date_start: 2024-9
-    date_end: 2029-6
+    date_start: 2024-09
+    date_end: 2029-06
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -63,8 +63,8 @@ education:
       url: 'https://example.com'
   - area: BSc Computer Science
     institution: Shanghai Jiao Tong University
-    date_start: 2020-9
-    date_end: 2024-6
+    date_start: 2020-09
+    date_end: 2024-06
     summary: |
       GPA: 3.4/4.0
       
