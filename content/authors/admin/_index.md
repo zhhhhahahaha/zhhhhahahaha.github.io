@@ -31,20 +31,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:hhzhang@cs.ucla.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/HanZhan41042405
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/zhhhhahahaha
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/han-zhang-2a1298280
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?hl=zh-CN&user=Wmyt0f0AAAAJ
 
 interests:
   - Artificial Intelligence
@@ -61,38 +57,15 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BSc Computer Science
+  - area: BE Computer Science(ACM Honor Class)
     institution: Shanghai Jiao Tong University
     date_start: 2020-09-01
     date_end: 2024-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 91.87/100
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
@@ -172,4 +145,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a first-year PhD student in Computer Science at ScAI Lab, UCLA, where I am fortunate to be advised by Prof. [Wei Wang](https://web.cs.ucla.edu/~weiwang/).
+
+Previously, I earned my bachelor degree at ACM Honor Class, Shanghai Jiao Tong University. I had a wonderful time as an undergraduate researcher advised by Prof. [Weinan Zhang](https://wnzhang.net/) at [SJTU APEX Lab](https://apex.sjtu.edu.cn/) and Dr. [David Wipf](http://www.davidwipf.com/), Quan Gan, Dr. [Minjie Wang](https://jermainewang.github.io/) at Amazon Shanghai AI Lab.
