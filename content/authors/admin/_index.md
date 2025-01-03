@@ -43,31 +43,20 @@ profiles:
     url: https://scholar.google.com/citations?hl=zh-CN&user=Wmyt0f0AAAAJ
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - LLM Reasoning
+  - AI for Science
 
 education:
   - area: PhD in Computer Science
     institution: University of California, Los Angeles
     date_start: 2024-09-04
     date_end: 2029-06-14
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: BE Computer Science(ACM Honor Class)
     institution: Shanghai Jiao Tong University
     date_start: 2020-09-01
     date_end: 2024-06-30
     summary: |
       GPA: 91.87/100
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -148,3 +137,5 @@ awards:
 I am currently a first-year PhD student in Computer Science at ScAI Lab, UCLA, where I am fortunate to be advised by Prof. [Wei Wang](https://web.cs.ucla.edu/~weiwang/).
 
 Previously, I earned my bachelor degree at ACM Honor Class, Shanghai Jiao Tong University. I had a wonderful time as an undergraduate researcher advised by Prof. [Weinan Zhang](https://wnzhang.net/) at [SJTU APEX Lab](https://apex.sjtu.edu.cn/) and Dr. [David Wipf](http://www.davidwipf.com/), Quan Gan, Dr. [Minjie Wang](https://jermainewang.github.io/) at Amazon Shanghai AI Lab.
+
+Currently, I am interested in **LLM Reasoning, LLM self-training** and its application in **Clinical** domain.
