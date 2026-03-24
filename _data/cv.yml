@@ -1,0 +1,76 @@
+cv:
+  name: Han Zhang
+  label: PhD Student in Computer Science
+  email: hhzhang@cs.ucla.edu
+  location: Los Angeles, CA
+  image: ""
+  summary: First-year PhD student at UCLA ScAI Lab, interested in LLM Reasoning, LLM self-training, and AI for Clinical applications.
+
+  social_networks:
+    - network: X
+      username: HanZhan41042405
+    - network: GitHub
+      username: zhhhhahahaha
+    - network: LinkedIn
+      username: han-zhang-2a1298280
+
+  sections:
+    Education:
+      - institution: University of California, Los Angeles
+        location: Los Angeles, CA, USA
+        url: https://www.cs.ucla.edu/
+        area: Computer Science
+        studyType: PhD
+        start_date: 2024-09
+        end_date: present
+        highlights:
+          - "Advisor: Prof. Wei Wang"
+          - "ScAI Lab"
+
+      - institution: Shanghai Jiao Tong University
+        location: Shanghai, China
+        url: https://www.sjtu.edu.cn/
+        area: Computer Science (ACM Honor Class)
+        studyType: Bachelor of Engineering
+        start_date: 2020-09
+        end_date: 2024-06
+        highlights:
+          - "GPA: 91.87/100"
+
+    Experience:
+      - company: Amazon Shanghai AI Lab
+        position: Research Intern
+        location: Shanghai, China
+        start_date: 2022
+        end_date: 2024
+        highlights:
+          - "Mentors: Dr. David Wipf, Quan Gan, Dr. Minjie Wang"
+
+      - company: SJTU APEX Lab
+        position: Undergraduate Researcher
+        location: Shanghai, China
+        start_date: 2021
+        end_date: 2024
+        highlights:
+          - "Advisor: Prof. Weinan Zhang"
+
+    Skills:
+      - name: Research
+        level: ""
+        keywords: "LLM Reasoning, LLM Self-Training, AI for Science, Clinical AI"
+
+      - name: Programming
+        level: ""
+        keywords: "Python, PyTorch, JAX"
+
+    Languages:
+      - name: Chinese
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-brain
+        keywords: "LLM Reasoning, LLM Self-Training, AI for Science, Clinical Applications"
