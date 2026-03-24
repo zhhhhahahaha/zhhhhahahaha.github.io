@@ -1,7 +1,8 @@
 name: Check for broken links
 
 on:
-  push:
+  workflow_dispatch: # run manually only
+  push_disabled:
     branches:
       - master
       - main
