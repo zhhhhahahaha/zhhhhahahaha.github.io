@@ -1,6 +1,7 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: CV 2026.3.24.pdf # your CV PDF file name in assets/pdf/
 email: hhzhang@cs.ucla.edu # your email address
 scholar_userid: Wmyt0f0AAAAJ # your Google Scholar ID
 github_username: zhhhhahahaha # your GitHub user name

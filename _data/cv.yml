@@ -4,7 +4,7 @@ cv:
   email: hhzhang@cs.ucla.edu
   location: Los Angeles, CA
   image: ""
-  summary: First-year PhD student at UCLA ScAI Lab, interested in LLM Reasoning, LLM self-training, and AI for Clinical applications.
+  summary: PhD student at UCLA ScAI Lab, interested in Agentic RL, Agentic AI systems, and reinforcement learning-based fine-tuning methods.
 
   social_networks:
     - network: X
@@ -25,7 +25,7 @@ cv:
         end_date: present
         highlights:
           - "Advisor: Prof. Wei Wang"
-          - "ScAI Lab"
+          - "GPA: 4.0/4.0"
 
       - institution: Shanghai Jiao Tong University
         location: Shanghai, China
@@ -35,33 +35,71 @@ cv:
         start_date: 2020-09
         end_date: 2024-06
         highlights:
-          - "GPA: 91.87/100"
+          - "Major GPA: 91.87/100 (Rank 5/35)"
 
     Experience:
-      - company: Amazon Shanghai AI Lab
-        position: Research Intern
-        location: Shanghai, China
-        start_date: 2022
-        end_date: 2024
+      - company: Optum AI
+        position: Data and Research Intern
+        location: Remote
+        start_date: 2025-06
+        end_date: 2025-09
         highlights:
-          - "Mentors: Dr. David Wipf, Quan Gan, Dr. Minjie Wang"
+          - "Mentor: Kimmo Kärkkäinen"
+          - Built a two-stage LLM finetuning pipeline for ICD-10-CM diagnosis prediction
+          - Developed hierarchy-aware contrastive learning and dynamic confidence loss for ICD code classification
+          - Scaled dataset from 100K to 2.5M+ samples using PySpark
 
-      - company: SJTU APEX Lab
+      - company: Amazon Shanghai AI Lab
+        position: Applied Scientist Intern
+        location: Shanghai, China
+        start_date: 2024-03
+        end_date: 2024-08
+        highlights:
+          - "Mentors: Dr. Minjie Wang, Quan Gan"
+          - Proposed GFS and integrated into Project 4DBInfer
+          - Explored novel strategies for restructuring relational databases before graph construction
+
+      - company: APEX Lab, Shanghai Jiao Tong University
         position: Undergraduate Researcher
         location: Shanghai, China
-        start_date: 2021
-        end_date: 2024
+        start_date: 2022-07
+        end_date: 2023-07
         highlights:
-          - "Advisor: Prof. Weinan Zhang"
+          - "Advisor: Prof. Weinan Zhang, Dr. David Wipf"
+          - Led the GFS project on deep learning over relational databases
+          - Developed feature space alignment for tabular data using hard negative contrastive pretraining
+
+      - company: Ma Lab, Carnegie Mellon University
+        position: Research Intern
+        location: Pittsburgh, PA, USA
+        start_date: 2023-08
+        end_date: 2024-03
+        highlights:
+          - "Advisor: Prof. Jian Ma"
+          - Applied CNNs and transformer-based models to computational genomics
+          - Developed novel attention layers for Hi-C data to predict gene expression
+
+    Awards:
+      - title: Ruiyuan-Hongshan Scholarship
+        date: "2023"
+        awarder: ACM Class, SJTU
+        summary: Top 5% students in ACM class
+      - title: Zhiyuan Honorary Scholarship
+        date: "2021, 2022, 2023"
+        awarder: SJTU
+        summary: Top 5% students in SJTU
+      - title: Jin Long Yu Scholarship
+        date: "2021"
+        awarder: SJTU
 
     Skills:
-      - name: Research
-        level: ""
-        keywords: "LLM Reasoning, LLM Self-Training, AI for Science, Clinical AI"
-
       - name: Programming
         level: ""
-        keywords: "Python, PyTorch, JAX"
+        keywords: "Python, C/C++, Java, Rust, Verilog"
+
+      - name: Research
+        level: ""
+        keywords: "Agentic RL, LLM Post-Training, LLM Agents"
 
     Languages:
       - name: Chinese
@@ -69,8 +107,3 @@ cv:
 
       - name: English
         summary: "Fluent"
-
-    Interests:
-      - name: Research
-        icon: fa-solid fa-brain
-        keywords: "LLM Reasoning, LLM Self-Training, AI for Science, Clinical Applications"
