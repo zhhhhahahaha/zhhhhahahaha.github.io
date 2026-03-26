@@ -7,7 +7,7 @@ first_name: Han
 middle_name:
 last_name: Zhang
 contact_note: >
-  Feel free to reach out via email.
+  Last updated: March 2026
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal academic website of Han Zhang (章涵), CS PhD student at UCLA.
 footer_text: >
