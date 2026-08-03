@@ -1,13 +1,13 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-03'
 papers:
   Wmyt0f0AAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'Synthesize, Retrieve, and Propagate: A Unified Predictive Modeling Framework for Relational Databases'
     year: '2025'
   Wmyt0f0AAAAJ:9yKSN-GCB0IC:
-    citations: 157
-    title: 'Protein Large Language Models: A Comprehensive Survey'
+    citations: 59
+    title: 'Protein Large Language Models: A Comprehensive Survey.'
     year: '2025'
   Wmyt0f0AAAAJ:IjCSPb-OGe4C:
     citations: 0
@@ -18,10 +18,10 @@ papers:
     title: 'ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning'
     year: '2026'
   Wmyt0f0AAAAJ:d1gkVwhDpl0C:
-    citations: 32
+    citations: 34
     title: '4DBInfer: A 4D Benchmarking Toolbox for Graph-Centric Predictive Modeling on RDBs'
     year: Unknown Year
   Wmyt0f0AAAAJ:u5HHmVD_uO8C:
-    citations: 23
+    citations: 24
     title: 'GFS: Graph-based Feature Synthesis for Prediction over Relational Databases'
     year: '2023'
