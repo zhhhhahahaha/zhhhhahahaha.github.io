@@ -26,6 +26,8 @@ latest_posts:
   limit: 3
 ---
 
+I am currently a **Research Scientist Intern at [Meta Superintelligence Labs](https://ai.meta.com/)**.
+
 I am a second-year PhD student in Computer Science at SCAI Lab, UCLA, where I am fortunate to be advised by Prof. [Wei Wang](https://web.cs.ucla.edu/~weiwang/).
 
 Previously, I earned my bachelor's degree at ACM Honor Class, Shanghai Jiao Tong University. I had a wonderful time as an undergraduate researcher advised by Prof. [Weinan Zhang](https://wnzhang.net/) at [SJTU APEX Lab](https://apex.sjtu.edu.cn/) and Dr. [David Wipf](http://www.davidwipf.com/), Quan Gan, Dr. [Minjie Wang](https://jermainewang.github.io/) at Amazon Shanghai AI Lab.

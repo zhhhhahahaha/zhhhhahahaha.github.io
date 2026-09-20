@@ -1,12 +1,11 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/CV 2026.3.24.pdf
-cv_format: rendercv # options: rendercv, jsonresume
-description:
-toc:
-  sidebar: left
 ---
+
+<a class="btn btn-outline-primary" href="{{ site.data.socials.cv_pdf | relative_url }}" target="_blank" rel="noopener noreferrer">
+  <i class="fas fa-file-pdf" aria-hidden="true"></i> View CV (PDF)
+</a>
